@@ -6,7 +6,11 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+<<<<<<< Updated upstream
 Man
+=======
+man
+>>>>>>> Stashed changes
 .vscode
 .vs
 *.VC.db
